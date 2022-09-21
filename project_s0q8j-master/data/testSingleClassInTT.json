@@ -1,0 +1,61 @@
+{"classes": [{
+  "profName": "test",
+  "assignments": [],
+  "exams": [],
+  "className": "test",
+  "classDays": [
+    2,
+    4,
+    6
+  ],
+  "classTimes": [
+    {"dueDate": [
+      {
+        "month": 9,
+        "hour": 8,
+        "year": 2021,
+        "day": 1,
+        "minute": 0
+      },
+      {
+        "month": 9,
+        "hour": 9,
+        "year": 2021,
+        "day": 1,
+        "minute": 0
+      }
+    ]},
+    {"dueDate": [
+      {
+        "month": 9,
+        "hour": 8,
+        "year": 2021,
+        "day": 1,
+        "minute": 0
+      },
+      {
+        "month": 9,
+        "hour": 9,
+        "year": 2021,
+        "day": 1,
+        "minute": 0
+      }
+    ]},
+    {"dueDate": [
+      {
+        "month": 9,
+        "hour": 8,
+        "year": 2021,
+        "day": 1,
+        "minute": 0
+      },
+      {
+        "month": 9,
+        "hour": 9,
+        "year": 2021,
+        "day": 1,
+        "minute": 0
+      }
+    ]}
+  ]
+}]}
